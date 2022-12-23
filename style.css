@@ -26,11 +26,12 @@ body {
 }
 
 
-.click {
-    text-align: center;
-    align-items: center;
-    position: absolute; 
-    left: 1%; 
 
+
+
+
+
+img {
+    width: 60px;
+    height: 60px;
 }
-
